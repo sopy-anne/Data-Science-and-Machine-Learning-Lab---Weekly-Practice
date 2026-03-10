@@ -11,7 +11,7 @@ To learn:
 
 ### Step-by-step Process
 
-##### Operators 
+### Operators 
 
 Operators are used to perform computing actions on values and variables. They are:
 
@@ -21,7 +21,10 @@ Operators are used to perform computing actions on values and variables. They ar
     * / (division),
     * //(floor division),
     * %(modulo, remainder),
-    * ** (exponential/ power). 
+    * ** (exponential/ power).
+      
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operators%20-%20Ari%20(%2B%2C%20_%2C%20).png)
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20Ari%202.png)
 
 - Comparison operators: compare two variables to return a boolean 
     * (>) (greater than)
@@ -31,10 +34,15 @@ Operators are used to perform computing actions on values and variables. They ar
     * <= (less than or equal to)
     * != (not equal to)
 
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20comp%201.png)
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20comp%202.png)
+
 - Logical Operators
   * "and" - evaluates two conditions and returns a boolean (True or False). When true, both conditions are correct.
   * "or" - returns true when one of the conditions is correct.
   * "not" - negation. Returns true when the variable is not found in the command.
+ 
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20log.png)
 
 - Assignment operators - used to assign variables
   * = assigns variable
@@ -42,7 +50,9 @@ Operators are used to perform computing actions on values and variables. They ar
   * -= subtracts value from variable
   * /= divides variable by the value
   * *= multiplies variable by the value
-  * It applies to all the arithmetic operators. 
+  * It applies to all the arithmetic operators.
+
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20Assign.png)
 
 - Bitwise operators: it is used to manipulate integers into binary bits (0s and 1s). Each operator has a bitwise rule. 
   * & (ampersand) - also called bitwise "and".
@@ -56,10 +66,17 @@ Operators are used to perform computing actions on values and variables. They ar
   * (~) (tilder) - gives a negation output on integers using two's complement.
     * It is also called the bitwise (not)
 
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20bit%201.png)
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20bit%202.png)
+
 - Membership operators: checks the existence of a value/item in a sequence or collection.
   * "in" - checks if an item exists in a sequence and returns a boolean.
-  * "not in" - check if an item is not in a sequence and returns a boolean.
+  * "not in" - check if an item is not in a sequence and returns a boolean
+
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20member.png)
 
 - Identify Operators: checks if two objects are the same in memory, not just in values.
   * "is"
   *  "is not"
+
+![](https://github.com/sopy-anne/Data-Science-and-Machine-Learning-Lab---Weekly-Practice/blob/main/Week%203/Operator%20-%20Ident.png)
